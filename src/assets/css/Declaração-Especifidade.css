@@ -1,0 +1,49 @@
+/* Anatomia CSS
+
+*Declaração
+*Seletores
+*Propriedades
+*Valores
+
+*/
+*
+{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+#titulo-pricipal {
+    color: blue;
+    font-size: 60px;
+    letter-spacing: 2;
+    text-transform: uppercase;
+}
+
+
+
+/* Especificidade 
+ - Cada seletor tem um peso
+ - Soma dos pesos faz a declaração ser aplicada
+
+
+#ID = 100
+.CLASS = 10
+ELEMENTO = 1
+ 
+*/
+
+
+#text {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+p{
+    color: red;
+
+}
