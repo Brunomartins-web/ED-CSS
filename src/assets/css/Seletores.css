@@ -1,0 +1,32 @@
+/* Seletores CSS
+- Id
+- Class
+- type | element | tag 
+- atributo
+- universal
+*/
+
+p{
+    color: violet;    
+    /* Type */
+}
+
+#text {
+    color: blue;
+    /* ID */    
+}
+
+.red{
+    color: red;
+    /* Class */ 
+}
+
+[title="t"]{
+    color: green;
+    /* Atributo */
+}
+
+*{
+    color: yellow;
+    /* Universal */
+}
