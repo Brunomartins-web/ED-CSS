@@ -4,4 +4,7 @@ span{
     width: 200px;
     height: 200px;
 
+    /* As margens em cima e em baixo não são aplicadas para elementos em linha */
+    margin: 20px;
+    padding: 20px;
 }
