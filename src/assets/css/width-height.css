@@ -1,0 +1,11 @@
+/* Width, height */
+div, span {
+
+    border: solid black 1px;
+
+    /* min-width: 200px; */
+    /* max-width: 300px; */
+    /* width: 500px; */
+    width: 333px;   
+    height: 200px;
+}
