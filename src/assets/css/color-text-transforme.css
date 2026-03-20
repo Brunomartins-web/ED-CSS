@@ -1,0 +1,22 @@
+h1 {
+
+}
+
+p{
+color: blueviolet;
+/* text-transform:uppercase; */
+/* text-transform:lowercase; */
+/* text-transform:capitalize; */
+}
+mark{
+    color: red;
+    text-transform: uppercase;
+}
+
+a{
+    /* text-decoration: none; */
+    /* text-decoration: line-through */
+    text-decoration: dashed;
+    color:black
+    
+}
